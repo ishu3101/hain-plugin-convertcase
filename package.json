@@ -1,0 +1,22 @@
+{
+    "name": "hain-plugin-convertcase",
+    "version": "1.0.0",
+    "description": "Hain plugin to convert text to uppercase, lowercase",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ishu3101/hain-plugin-convertcase.git"
+    },
+    "author": "ishu3101",
+    "license": "MIT",
+    "keywords": [
+        "hain0"
+    ],
+    "homepage": "https://github.com/ishu3101/hain-plugin-convertcase.git",
+    "hain": {
+        "prefix": "/case",
+        "usage": "/case something",
+        "icon": "/icon.png",
+        "redirect": "/case "
+    }
+}

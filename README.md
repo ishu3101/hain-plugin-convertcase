@@ -1,2 +1,2 @@
 # hain-plugin-convertcase
-Hain plugin to convert text to uppercase, lowercase
+[Hain](https://github.com/appetizermonster/hain) plugin to convert text to uppercase, lowercase
